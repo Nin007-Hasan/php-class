@@ -3,7 +3,7 @@
 
 
 <?php 
-	echo $_GET["parijat"];
+	echo $_GET["parijat + pp"];
 ?>
 
 </body>
