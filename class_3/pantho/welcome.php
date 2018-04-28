@@ -6,8 +6,8 @@ Your email address is: <?php echo $_GET["password"]; ?> -->
 
 <?php 
  	
- 	$x = 10;  
-	$y = 6;
+ 	$x = $_GET["pan"];  
+	$y = $_GET["tho"];
 
 	echo $x + $y;
 	
