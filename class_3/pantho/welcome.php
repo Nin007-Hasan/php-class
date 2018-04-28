@@ -5,8 +5,12 @@
 Your email address is: <?php echo $_GET["password"]; ?> -->
 
 <?php 
- 
-	echo $_GET["pantho"];
+ 	
+ 	$x = 10;  
+	$y = 6;
+
+	echo $x + $y;
+	
 ?>
 
 </body>
