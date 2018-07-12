@@ -1,0 +1,81 @@
+
+ .header-wrapper{
+    background: url(../images/main_background.jpg);
+        background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    width: 95%;       
+}
+.logo
+{
+    margin-left: 32px;
+}
+.row
+{ 
+     border-bottom: solid 4px;
+   background-color:  antiquewhite;
+   
+}
+.main{
+/*background-image: url(../images/4-jq.jpg);*/
+overflow: hidden;
+
+}
+.img-responsive{
+
+  margin-top: 50px;
+  width:184px;
+  position: fixed;
+}
+.tr{
+  font-weight: 600;
+  font-size: 32px;
+ color: blue;
+ margin-top:90px;
+ margin-left: 30px;
+}
+.tr1
+{
+  font-weight: 600;
+  font-size: 32px;
+ color: red;
+ 
+ margin-left: 20px;
+}
+.cr{
+  background-color: ;
+  opacity: 0.7;
+
+}
+.cr2{
+  margin-left: 10PX;
+  margin-top: 70px;
+}
+.cr3{
+  margin-left: 90px;
+  margin-top: 70px;
+}
+
+.ss{
+   
+  
+    
+    color: black;
+    font-size: 20px;
+    font-style:  italic;
+    font-family:  fantasy;
+}
+.r
+{
+   
+    font-size: 20px;
+    font-style:  italic;
+    font-family:  fantasy;
+     color:  currentColor;
+}
+.footer
+{
+   border: solid 4px;
+   background-color:  antiquewhite;
+}
