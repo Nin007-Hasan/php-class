@@ -12,13 +12,5 @@ include("index.php")
 <p1> asdasdasdadasasdasdas</p1>
 
 
-
-
-
-
-
-<?php
-include("footer.php")
-?>
 </body>
 </html>
